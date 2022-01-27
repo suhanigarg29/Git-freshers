@@ -3,7 +3,7 @@ Repository for Git Excercise
 
 Try to get your pull request merged :man_technologist:
 
-Deployed at - [Git-freshers]()
+Deployed at - [Git-freshers](https://git-freshers.netlify.app/)
 
 ## Steps to Contribute
 
